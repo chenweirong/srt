@@ -1,0 +1,12 @@
+# MYNAME = 1231
+# a = [1,2,3,4,5,3,3,2,32,3,32,3,23,2]
+# b = []
+# a.each do |key|
+#   b<<key
+# end
+# puts b[9]
+(1..5).each do |key|
+    puts key
+end
+a = 10
+b = 20
